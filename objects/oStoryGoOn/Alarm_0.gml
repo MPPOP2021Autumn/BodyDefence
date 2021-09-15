@@ -1,0 +1,1 @@
+instance_create_depth(400, 600, 10, oStoryWords1);
