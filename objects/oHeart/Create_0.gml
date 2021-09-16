@@ -1,0 +1,1 @@
+isHurt = false;
