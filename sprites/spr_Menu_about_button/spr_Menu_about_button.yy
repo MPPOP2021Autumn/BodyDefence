@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Textures",
-    "path": "folders/Sprites/Textures.yy",
+    "name": "Menu",
+    "path": "folders/Sprites/Textures/Menu.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Menu_about_button",

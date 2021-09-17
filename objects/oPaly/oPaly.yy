@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_Menu_play_button",
-    "path": "sprites/spr_Menu_play_button/spr_Menu_play_button.yy",
+    "name": "spr_play_button",
+    "path": "sprites/spr_play_button/spr_play_button.yy",
   },
   "solid": false,
   "visible": true,

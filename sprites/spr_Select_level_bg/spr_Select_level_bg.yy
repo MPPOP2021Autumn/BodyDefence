@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Textures",
-    "path": "folders/Sprites/Textures.yy",
+    "name": "Select",
+    "path": "folders/Sprites/Textures/Select.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Select_level_bg",

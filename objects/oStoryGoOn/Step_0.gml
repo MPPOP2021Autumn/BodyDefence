@@ -35,6 +35,24 @@ if(mouse_check_button_pressed(mb_left))
 			scene = 9;
 			break;
 		default:
+			audio_stop_all();
 			room_goto(room_game);
+	}
+}
+
+if(isPlayBGM)
+{
+	if(keyboard_check_pressed(ord("P")))
+	{
+		audio_pause_all();
+		isPlayBGM = !isPlayBGM;
+	}
+}
+else
+{
+	if(keyboard_check_pressed(ord("P")))
+	{
+		audio_resume_all();
+		isPlayBGM = !isPlayBGM;
 	}
 }

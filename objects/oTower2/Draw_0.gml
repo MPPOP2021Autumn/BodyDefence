@@ -1,7 +1,10 @@
 draw_self();
 
 if(mouseOver(x-25, y-25, sprite_width, sprite_height))
+{
+	draw_sprite_ext(spr_tower2_1_highlight_Recovered, 0, x, y, 1, 1, 0, -1, 1);
 	draw_circle(x, y, range, true); // 攻击范围辅助线
+}
 
 var en = instance_nearest(x, y, oEnemyParent); // 获取距离最近的敌人
 if(en != noone)

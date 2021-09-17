@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Textures",
-    "path": "folders/Sprites/Textures.yy",
+    "name": "Tutorial",
+    "path": "folders/Sprites/Textures/Tutorial.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Tutorial",

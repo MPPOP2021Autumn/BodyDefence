@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Textures",
-    "path": "folders/Sprites/Textures.yy",
+    "name": "OverPage",
+    "path": "folders/Sprites/Textures/OverPage.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Over_cancel_btn",
